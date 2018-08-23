@@ -1,0 +1,45 @@
+    1  sudo visudo
+    2  sudo visudo
+    3  sudo psswd montse
+    4  exit
+    5  sudo visudo
+    6  exit
+    7  exit
+    8  git config --list
+    9  sudo git config --list
+   10  git config --list
+   11  cd 
+   12  git config --list
+   13  git config --global user.email "montze94@gmail.com"
+   14  git config --list
+   15  git config --global user.name "mon2712"
+   16  ls
+   17  mkdir repotest
+   18  cd repotest/
+   19  nano README.md
+   20  git init
+   21  git remote add origin httpds://github.com/mon2712/repotest.git
+   22  git remote add origin https://github.com/mon2712/repotest.git
+   23  ll
+   24  git remote add origin https://github.com/mon2712/repotest.git
+   25  git commit -m "Read me"
+   26  git status
+   27  git add --all
+   28  git status
+   29  git commit -m "Readme"
+   30  git push -u origin master
+   31  git push -u origin master
+   32  git remote add origin https://github.com/mon2712/repotest.git
+   33  git remote -v
+   34  git remote set-url origin https://github.com/montse2712/repotest.git
+   35  git remote -v
+   36  git push -u origin master
+   37  git push -u origin master
+   38  git remote set-url origin https://github.com/mon2712/repotest.git
+   39  git push -u origin master
+   40  git branch
+   41  git branch -b comandos
+   42  git branch
+   43  git checkout -b comandos
+   44  git status
+   45  history >> comandos.txt
